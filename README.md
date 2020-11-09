@@ -1,3 +1,12 @@
+# Update
+
+This isn't useful.
+
+You want either
+- Datel SD Media Launcher w/ Action Replay: https://www.codejunkies.com/Products/SD-Media-Launcher__EF000580V.aspx
+- Swiss Boot Memory Card (with Hacked Game Save) https://ebay.to/3k9U6cz
+
+
 # gamecube-sdpatch
 
 [sdload.zip](https://www.wiibrew.org/wiki/Running_GameCube_homebrew_on_the_Wii) [(archive.org alternative)](https://web.archive.org/web/*/http://wii-news.dcemu.co.uk/sdload.zip)
